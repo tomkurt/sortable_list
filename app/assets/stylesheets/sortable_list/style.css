@@ -1,0 +1,7 @@
+td.orderHandle .fa {
+  display: none;
+}
+
+table.edit_mode td.orderHandle .fa {
+  display: inline;
+}
